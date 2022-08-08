@@ -2,7 +2,6 @@
 <h3 align="center">Apaixonado por desenvolvimento Front-End, APPS.. e SEGURANÇA DA INFORMAÇÃO!</h3>
 
 - 📫 Caixa de Emails: **mroger.dev@gmail.com**
-- ⚡ Portfólio de Projetos: Em Breve!
 - 🤖 Menu de Portfólio : https://i-roger.github.io/projeto-portfolio/
 
 <h3 align="left">Conecte-se comigo:</h3>
