@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou Matheus Roger</h1>
-<h3 align="center">Apaixonado por desenvolvimento FRONTEND!</h3>
 
 - 📫 Caixa de Emails: **mroger.dev@gmail.com**
 - 🤖 Menu de Portfólio : **https://devroger.vercel.app**
